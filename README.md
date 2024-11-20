@@ -1,5 +1,10 @@
 10 problems involving arrays, subarrays, sliding windows, and conditions on elements:
 
+0. **Maximum Sum of Distinct Subarrays With Length K**
+
+   - **Description**: Find the maximum sum of a subarray with all unique elements.
+   - **Concepts**: Sliding window, hash set to track unique elements.
+
 1. **Maximum Erasure Value**
 
    - **Description**: Find the maximum sum of a subarray with all unique elements.
